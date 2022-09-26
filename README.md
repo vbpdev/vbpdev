@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on **a secret project 🤫**
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **.NET Framework**
 
 - 👯 I’m looking to collaborate on **interesting projects or ideas**
-
-- 🤝 I’m looking for help with **software development issues**
 
 - 👨‍💻 All of my projects are available at [https://vitorprates.com](https://vitorprates.com)
 
