@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👽, I'm Vitor Prates</h1>
-<h3 align="center">A cybersecurity and systems development enthusiast</h3>
+<h1>Hi 👽, I'm Vitor Prates</h1>
+<h3>A cybersecurity and systems development enthusiast</h3>
 
 - 🔭 I’m currently working on **a secret project 🤫**
 
