@@ -1,9 +1,9 @@
 <h1>Hi 👽, I'm Vitor Prates</h1>
 <h3>A cybersecurity and systems development enthusiast</h3>
 
-- 🔭 I’m currently working on **a secret project 🤫**
+- 🔭 I’m currently working on **a secret project game project**
 
-- 🌱 I’m currently learning **.NET Framework**
+- 🌱 I’m currently learning **.NET Framework** with XAML and C#
 
 - 👯 I’m looking to collaborate on **interesting projects or ideas**
 
@@ -11,11 +11,9 @@
 
 - 💬 Ask me about **C#, .NET Framework and specially Python**
 
-- 📫 How to reach me **contato@vitorprates.com**
+- 📫 Contact me by emailing: **contato@vitorprates.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/vitorbprates/](https://www.linkedin.com/in/vitorbprates/)
-
-- ⚡ Fun fact **I am 17 years old.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
