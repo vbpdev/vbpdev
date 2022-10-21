@@ -1,5 +1,5 @@
 <h1>hi, i am Vitor Prates</h1>
-<h3>a cybersecurity and systems development enthusiast</h3>
+<h3>a system developer and cybersecurity enthusiast</h3>
 
 - 🔭 i am currently working on **a secret project game project**
 
