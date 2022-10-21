@@ -9,8 +9,6 @@
 
 - 👨‍💻 all of my projects are available at [my repostories](https://github.com/vbpdev?tab=repositories)
 
-- 💬 ask me about **C#, .NET Framework and specially Python**
-
 - 📫 contact me by emailing: **contato@vitorprates.com**
 
 - 📄 know about my experiences [https://www.linkedin.com/in/vitorbprates/](https://www.linkedin.com/in/vitorbprates/)
