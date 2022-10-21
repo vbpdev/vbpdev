@@ -7,7 +7,7 @@
 
 - 👯 i am looking to collaborate on **interesting projects or ideas**
 
-- 👨‍💻 all of my projects are available at [https://vitorprates.com](https://vitorprates.com)
+- 👨‍💻 all of my projects are available at [my repostories](https://github.com/vbpdev?tab=repositories)
 
 - 💬 ask me about **C#, .NET Framework and specially Python**
 
