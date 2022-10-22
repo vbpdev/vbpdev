@@ -11,7 +11,7 @@
 
 - 📫 contact me by emailing: **contato@vitorprates.com**
 
-- 📄 know about my experiences [https://www.linkedin.com/in/vitorbprates/](https://www.linkedin.com/in/vitorbprates/)
+- 📄 know about my experiences on [linkedin](https://www.linkedin.com/in/vitorbprates/)
 
 <h3 align="left">connect with me:</h3>
 <p align="left">
