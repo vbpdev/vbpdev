@@ -7,7 +7,7 @@
 
 - 👯 i am looking to collaborate on **interesting projects or ideas**
 
-- 👨‍💻 all of my projects are available at [my repostories](https://github.com/vbpdev?tab=repositories)
+- 👨‍💻 all of my projects are available at [my repositories](https://github.com/vbpdev?tab=repositories)
 
 - 📫 contact me by emailing: **contato@vitorprates.com**
 
